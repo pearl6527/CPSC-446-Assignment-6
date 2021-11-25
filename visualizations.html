@@ -116,14 +116,14 @@
         };
       };
 
-      d3.csv("fatal-police-shootings-data.csv", rowConverter).then( (data)=> {
+      d3.csv("https://raw.githubusercontent.com/pearl6527/CPSC-446-Assignment-6/main/fatal-police-shootings-data.csv?token=AGNRPAIHALLLHRKIRNT2EMTBT6UN6", rowConverter).then( (data)=> {
         // console.log(data);
 
         let result = data.map(a => a.gender);
         list = [... new Set(result)];
         console.log(list);
 
-        d3.json("us-states.json").then(function(json) {
+        d3.json("https://raw.githubusercontent.com/pearl6527/CPSC-446-Assignment-6/main/us-states.json?token=AGNRPAPPRHHAKJ4A6NHUEBLBT6UTK").then(function(json) {
 
           v1.selectAll("path.outlines")
             .data(json.features)
