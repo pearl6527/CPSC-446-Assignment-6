@@ -1,0 +1,52 @@
+state,abbr,shootings,male,female,other
+Washington,WA,181,175,6,0
+Oregon,OR,108,105,3,0
+Kansas,KS,64,60,4,0
+California,CA,988,940,48,0
+Colorado,CO,242,230,12,0
+Oklahoma,OK,194,190,4,0
+Arizona,AZ,305,285,20,0
+Iowa,IA,41,38,3,0
+Pennsylvania,PA,141,137,4,0
+Texas,TX,601,564,36,1
+Ohio,OH,187,180,7,0
+Louisiana,LA,132,129,3,0
+Montana,MT,41,40,1,0
+Utah,UT,82,82,0,0
+Arkansas,AR,97,96,1,0
+Illinois,IL,134,129,5,0
+Nevada,NV,115,111,3,1
+New Mexico,NM,134,127,6,1
+Minnesota,MN,76,74,2,0
+Missouri,MO,167,157,10,0
+Virginia,VA,117,110,7,0
+New Jersey,NJ,80,78,2,0
+Indiana,IN,123,119,4,0
+Kentucky,KY,123,119,4,0
+Massachusetts,MA,44,43,1,0
+New Hampshire,NH,18,18,0,0
+Florida,FL,437,412,25,0
+Idaho,ID,57,54,3,0
+Maryland,MD,97,93,4,0
+Nebraska,NE,34,32,2,0
+Michigan,MI,107,104,3,0
+Georgia,GA,246,228,17,1
+Tennessee,TN,182,170,12,0
+North Carolina,NC,188,182,6,0
+Alaska,AK,47,45,2,0
+New York,NY,125,119,6,0
+Maine,ME,29,28,1,0
+Alabama,AL,124,115,9,0
+Mississippi,MS,87,84,2,1
+Wisconsin,WI,109,108,1,0
+South Carolina,SC,105,100,5,0
+Delaware,DE,16,15,1,0
+District of Columbia,DC,21,18,3,0
+West Virginia,WV,63,61,2,0
+Hawaii,HI,37,35,2,0
+Wyoming,WY,15,14,1,0
+North Dakota,ND,15,15,0,0
+Connecticut,CT,23,23,0,0
+South Dakota,SD,21,21,0,0
+Vermont,VT,11,11,0,0
+Rhode Island,RI,4,4,0,0
